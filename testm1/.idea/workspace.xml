@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6693bf14-ef23-474d-aa49-a79c0e2e2472" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKtJ4tb5OBhWJ8a7v6b0liawOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/org.apache.commons.io.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.MainClassTest">
+    <configuration name="ImageSearchClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageSearchClass" />
+      <module name="testm1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="testm1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TmpClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TmpClass" />
+      <module name="testm1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageSearchClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testm1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ImageSearchClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testm1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainClassTest" />
+        <item itemvalue="JUnit.ImageSearchClassTest" />
+        <item itemvalue="Application.ImageSearchClass" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.TmpClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6693bf14-ef23-474d-aa49-a79c0e2e2472" name="Default Changelist" comment="" />
+      <created>1586496037348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586496037348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="520" key="#Notifications" timestamp="1586499859278">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="830" y="520" key="#Notifications/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586499859278" />
+    <state x="838" y="493" key="#Project_Structure" timestamp="1586694417526">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="838" y="493" key="#Project_Structure/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586694417526" />
+    <state x="831" y="490" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586498333474">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="831" y="490" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586498333474" />
+    <state x="1086" y="547" key="#com.intellij.ide.util.MemberChooser" timestamp="1586667544401">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="547" key="#com.intellij.ide.util.MemberChooser/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586667544401" />
+    <state x="1087" y="744" width="397" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586501586357">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1087" y="744" width="397" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586501586357" />
+    <state x="1190" y="786" key="FileChooserDialogImpl" timestamp="1586600464378">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1190" y="786" key="FileChooserDialogImpl/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586600464378" />
+    <state width="936" height="305" key="GridCell.Tab.0.bottom" timestamp="1586696492747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="936" height="305" key="GridCell.Tab.0.bottom/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586696492747" />
+    <state width="936" height="305" key="GridCell.Tab.0.center" timestamp="1586696492747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="936" height="305" key="GridCell.Tab.0.center/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586696492747" />
+    <state width="936" height="305" key="GridCell.Tab.0.left" timestamp="1586696492747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="936" height="305" key="GridCell.Tab.0.left/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586696492747" />
+    <state width="936" height="305" key="GridCell.Tab.0.right" timestamp="1586696492747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="936" height="305" key="GridCell.Tab.0.right/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586696492747" />
+    <state width="939" height="439" key="GridCell.Tab.1.bottom" timestamp="1586686786974">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="939" height="439" key="GridCell.Tab.1.bottom/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586686786974" />
+    <state width="939" height="439" key="GridCell.Tab.1.center" timestamp="1586686786974">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="939" height="439" key="GridCell.Tab.1.center/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586686786974" />
+    <state width="939" height="439" key="GridCell.Tab.1.left" timestamp="1586686786974">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="939" height="439" key="GridCell.Tab.1.left/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586686786974" />
+    <state width="939" height="439" key="GridCell.Tab.1.right" timestamp="1586686786974">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="939" height="439" key="GridCell.Tab.1.right/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586686786974" />
+    <state x="883" y="403" key="Maven.ArtifactSearchDialog" timestamp="1586597732170">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="883" y="403" key="Maven.ArtifactSearchDialog/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586597732170" />
+    <state x="841" y="361" key="SettingsEditor" timestamp="1586600479450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="841" y="361" key="SettingsEditor/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586600479450" />
+    <state x="793" y="733" key="new project wizard" timestamp="1586503100533">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="793" y="733" key="new project wizard/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586503100533" />
+    <state x="800" y="414" key="search.everywhere.popup" timestamp="1586687138028">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="800" y="414" key="search.everywhere.popup/2560.0.1280.984/0.0.2560.1400@0.0.2560.1400" timestamp="1586687138028" />
+  </component>
+</project>
